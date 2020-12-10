@@ -8,7 +8,7 @@ SPA en React jeux en ligne avec highscore (bdd), tableau des scores de tout les 
 Maquette projet + screen :
 
 Adobe XD 
-
+ ![page d'acceuil](https://github.com/exender/projet-web/blob/main/img/screenview.png)
 HTML CSS REACT 
 
 Serveur WEB Apache 
