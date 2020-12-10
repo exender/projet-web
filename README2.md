@@ -1,7 +1,10 @@
-Installer la vm
+## Installer la vm
 
-reprendre le fichier vagrant dans le git 
+Reprendre le fichier vagrant dans le git 
 
-faire un vagrant up
+Faire un 
+```bash
+Vagrant up
+```
 
 attendre que tout s'installe
