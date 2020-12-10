@@ -9,6 +9,7 @@ Maquette projet + screen :
 
 Adobe XD 
  ![page d'acceuil](https://github.com/exender/projet-web/blob/main/img/screenview.png)
+ ![profil](https://github.com/exender/projet-web/blob/main/img/profil.png)
 HTML CSS REACT 
 
 Serveur WEB Apache 
