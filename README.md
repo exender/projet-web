@@ -23,4 +23,4 @@ Screen:
 Blackjack:
 
 
- ![blackjack](https://github.com/exender/projet-web/blob/main/img/screenview.png)
+ ![blackjack](https://github.com/exender/projet-web/blob/main/img/blackjack.png)
