@@ -1,7 +1,8 @@
-# projet-web
+# Craoutch Worldwide Plateform
 
-But du projet faire une page HTML , CSS , JS en integrant le jeu du snake 
-SPA en React jeux en ligne avec highscore (bdd), tableau des scores de tout les joueurs, connexion utilisateur, bootstrap,
+La Craoutch Worldwide Plateform est un site de jeux en ligne style casino.
+Glissez vous en haut du tableau des scores dans Snake! et abatté vos cartes dans une partis endiablé de Blackjack.
+N'oublier pas d'inviter vos amis en leurs lancant des défis !
 
 ## Techno utiliser 
 
@@ -16,7 +17,7 @@ Serveur WEB Apache
 
 ## Jeux
 
-Actuelle que l'on a un snake et un blackjack 
+Snake et Blackjack
 
 Screen:
 
