@@ -13,3 +13,14 @@ Adobe XD
 HTML CSS REACT 
 
 Serveur WEB Apache 
+
+## Jeux
+
+Actuelle que l'on a un snake et un blackjack 
+
+Screen:
+
+Blackjack:
+
+
+ ![blackjack](https://github.com/exender/projet-web/blob/main/img/screenview.png)
