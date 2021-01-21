@@ -1,7 +1,7 @@
 # Craoutch Worldwide Plateform
 
 La Craoutch Worldwide Plateform est un site de jeux en ligne style casino.
-Glissez vous en haut du tableau des scores dans Snake! et abatté vos cartes dans une partis endiablé de Blackjack.
+Glissez-vous en haut du tableau des scores dans Snake! et abatté vos cartes dans une partis endiablé de Blackjack.
 N'oublier pas d'inviter vos amis en leurs lancant des défis !
 
 ## Techno utiliser 
